@@ -50,7 +50,7 @@ nav a:hover{
     height:100vh;
 
     background-color:#0f0b08;
-    background-image:url("tea2.png");
+    background-image:url("./tea2.png");
     background-repeat:no-repeat;
     background-position:left center;
     background-size:contain;
